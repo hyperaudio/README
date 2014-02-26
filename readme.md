@@ -1,6 +1,6 @@
 Hyperaud.io [0.4.0-beta]
 ========================
 
-(http://hyperaud.io)[Hyperaud.io Website]
+[Hyperaud.io Website](http://hyperaud.io)
 
 The Hyperaudio
