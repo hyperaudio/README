@@ -5,7 +5,7 @@ Hyperaud.io [0.4.0-beta]
 
 Hyperaudio is maintained by Hyperaudio Inc a nonprofit committed to making media easy to navigate, share and remix.
 
-All public code is this repo is [MIT Licensed](http://hyperaud.io)
+All public code is this repo is [MIT Licensed](https://github.com/hyperaudio/README/blob/master/MIT-licence.md)
 
 
 [Visit the Hyperaud.io Website](http://hyperaud.io)
