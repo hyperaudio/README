@@ -15,7 +15,7 @@ Hyperaudio is made up from many different parts.
 First we have the ecosystem that comprises of several loosely-coupled tools.
 
 - Hyperaudio Pad
-- Hyperaudio Converter
+- [Hyperaudio Converter](https://github.com/hyperaudio/ha-converter)
 - Hyperaudio Maker
 - Hyperaudio Cleaner
 
