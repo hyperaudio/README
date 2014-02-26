@@ -1,8 +1,8 @@
 Hyperaud.io [0.4.0-beta]
 ========================
 
-Transcript Powered Audio And Video.
------------------------------------
+### Transcript Powered Audio And Video
+
 
 [Visit the Hyperaud.io Website](http://hyperaud.io)
 
