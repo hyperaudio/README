@@ -3,7 +3,7 @@ Hyperaud.io [0.4.0-beta]
 
 ### Transcript Powered Audio And Video
 
-Hyperaudio is maintained by Hyperaudio Inc a nonprofit committed to making media easy to navigate, share and remix.
+Hyperaudio is maintained by Hyperaudio Inc, a nonprofit committed to making media easy to navigate, share and remix.
 
 All public code is this repo is [MIT Licensed](https://github.com/hyperaudio/README/blob/master/MIT-licence.md)
 
@@ -12,7 +12,7 @@ The Hyperaudio project (formerly Hyperaudio Inc.) hereby states that it intends 
 
 [Visit the Hyperaud.io Website](http://hyperaud.io)
 
-Hyperaudio is made up from many different parts.
+Hyperaudio is made from many different parts.
 
 First we have the ecosystem that comprises of several loosely-coupled tools.
 
