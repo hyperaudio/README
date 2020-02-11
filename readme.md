@@ -14,4 +14,6 @@ That's where we keep our guides and other documentation.
 
 Dove teniamo le nostre guide e altra documentazione.
 
+---------
 
+Want to translate this page or the wiki? Get in touch [by creating an issue](https://github.com/hyperaudio/README/issues) :) :heart:
